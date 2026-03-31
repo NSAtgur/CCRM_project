@@ -192,7 +192,7 @@ public interface Searchable<T> {
 ### Compilation & Execution
 Clone the repository
 ```bash
-git clone https://github.com/nabakrishna/CCRM
+git clone https://github.com/NSAtgur/CCRM_project
 ```
 cd CCRM
 
@@ -214,10 +214,9 @@ java -ea -cp src edu.ccrm.cli.CCRMApplication
 ## Screenshots
 
 📸 **Screenshot Directory**: `/screenshots/`
-- `version_check.jpg` - JDK installation verification
-- <img width="1040" height="241" alt="image" src="Screensort/version_check.jpg" />
+
 - `CCRM_structure.jpg` - Project Structure
-- <img width="486" height="607" alt="image" src="Screensort/CCRM_structure.jpg" />
+- <img width="486" height="607" alt="image" src="Screensort/CCRM_structure.png" />
 
 
 - `CCRM_addstudent.png` - Student operations demo
